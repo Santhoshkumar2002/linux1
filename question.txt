@@ -1,0 +1,15 @@
+1)Which command is used to copy one or more files.
+a)cp
+b)CP
+c)copy
+d)COPY
+2)Which command is to renaming files.
+a)rm
+b)rename
+c)mv
+d)move
+3)what is linux
+a)op
+b)cpu
+c)keyborad
+d)app
